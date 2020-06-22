@@ -1,0 +1,16 @@
+.container-fluid{
+	margin: 20px;
+}
+.col-md-6{
+	margin-top: 20px;
+}
+#rssOutput{
+	color: red;
+	font-size: 22px;
+	font-weight: bold;
+}
+#message{
+	background: green;
+	padding: 10px;
+	font-size: 30px;
+}
